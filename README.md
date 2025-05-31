@@ -4,8 +4,7 @@
 
 This proyect is forked from artemshchirov/pyzelda-rpg
 
-But now work in new vision of the game, the future is amazing
-, the new possibilities is like a horizont.
+But now work in new vision of the game, the future is amazing, the new possibilities is like a horizont.
 
 ## Run project locally
 
@@ -15,10 +14,6 @@ cd pyzelda-rpg
 pip install pygame
 python code/main.py
 ```
-
-![image_2022-11-28_01-22-10](https://user-images.githubusercontent.com/78075439/204165230-b9c48243-f1b8-4906-8088-5a5233865587.png)
-
-PyZelda RPG written in python based on [tutorial](https://www.youtube.com/watch?v=QU1pPzEGrqw)
 
 ## TODO
 
@@ -38,9 +33,11 @@ PyZelda RPG written in python based on [tutorial](https://www.youtube.com/watch?
 - [x] Audio
 - [x] Save / Load game
 - [x] Exp animation
-- [ ] NPC interaction
 
 ---
 
 - [ ] Over world
 - [ ] Enemy pathfinder
+- [ ] NPC interaction
+- [ ] NPC dialogues
+- [ ] History of game
