@@ -1,10 +1,11 @@
 # Python ⚔ PyZelda RPG ⚔ Pygame
 
-## About project
+## About project 2.0
 
-A Zelda style game in Python and Pygame.\
-This includes weapons and enemies, a magic and spells, upgrades and a sound effects.\
-The game was also made in Tiled.
+This proyect is forked from artemshchirov/pyzelda-rpg
+
+But now work in new vision of the game, the future is amazing
+, the new possibilities is like a horizont.
 
 ## Run project locally
 
@@ -37,6 +38,7 @@ PyZelda RPG written in python based on [tutorial](https://www.youtube.com/watch?
 - [x] Audio
 - [x] Save / Load game
 - [x] Exp animation
+- [ ] NPC interaction
 
 ---
 
